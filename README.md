@@ -10,3 +10,4 @@ See below for the summary of the projects created
 | Project Name  | Description |
 | -             | -           |
 | Cat Photo App | Barebones HTML to showcase Cats |
+| Cafe Menu     | HTML and CSS site to showcase Cafe Menu |
